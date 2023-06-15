@@ -3,10 +3,10 @@
 Мои сохраненые проекты, реализованные за время работы
 
 ## Фриланс
- - [Нубик Воришка](https://yandex.ru/games/app/225289?draft=true&lang=ru)
+ - [Нубик Воришка](https://yandex.ru/games/app/223239#app-id=223239&catalog-session-uid=catalog-b3807363-1724-59d3-a618-8090c8a1c9ed-1686812299617-0e8f&rtx-reqid=15455109858816195969&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22developer%22%7D)
  - [МиниМаркет](https://yandex.ru/games/app/229223?draft=true&lang=ru)
  - [Нубик фермер](https://yandex.ru/games/app/224443?draft=true&lang=ru)
- - [Копатель](https://yandex.ru/games/app/223915?draft=true&lang=ru)
+ - [Копатель](https://yandex.ru/games/app/224324)
 
 
 ## [Productivity Inside](https://productivityinside.com/)
