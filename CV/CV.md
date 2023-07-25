@@ -3,6 +3,7 @@
 Проекты над которыми удалось поработать, и к ним все еще сохранен доступ
 
 ## Фриланс
+ - [Остров Нубика](https://yandex.ru/games/app/229423?ypr=https%3A%2F%2Fapp-224443.games.s3.yandex.net%2F224443%2F809n5yy14q2gy4s2u6t5ffc95uhioffh%2Findex.html%3Flang%3Dru)
  - [Нубик Воришка](https://yandex.ru/games/app/223239#app-id=223239&catalog-session-uid=catalog-b3807363-1724-59d3-a618-8090c8a1c9ed-1686812299617-0e8f&rtx-reqid=15455109858816195969&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22developer%22%7D)
  - [МиниМаркет](https://yandex.ru/games/app/229223?draft=true&lang=ru)
  - [Нубик фермер](https://yandex.ru/games/app/224443?draft=true&lang=ru)
