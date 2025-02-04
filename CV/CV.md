@@ -1,5 +1,3 @@
-## Разработки
-
 Проекты к которым удалось приложить руку
 
 ## [DankoLab](https://dankolab.com/)
@@ -51,6 +49,7 @@
 
 ## Editor
 
-Editor скрипты упрощающие разработку:
+Пет наработки для Editor:
 
 - [Scene Manager](https://github.com/TrendDead/SceneManager/releases/tag/v1.0.1)
+- [GraphicalBranchingSystem](https://github.com/TrendDead/GraphicalBranchingSystem/tree/feature/add-view-graph)
