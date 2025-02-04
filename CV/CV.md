@@ -1,6 +1,14 @@
 ## Разработки
 
-Проекты над которыми удалось поработать, и к ним все еще сохранен доступ
+Проекты к которым удалось приложить руку
+
+## DankoLab
+ - [Merge Millionaire Android](https://play.google.com/store/apps/details?id=com.merge.millionaire.tycoon.money.rich.billionaire.magnate.business.mansion)
+ - [Merge Millionaire iOS](https://apps.apple.com/us/app/merge-millionaire-rich-craft/id6502765609)
+ - [Cat Miners](https://play.google.com/store/apps/details?id=com.cat.miners.empire.gold.gems.digger.tycoon&hl=en) 
+ - [Mining Empire Android](https://play.google.com/store/apps/details?id=com.mnr.miner) 
+ - [Mining Empire iOS](https://apps.apple.com/na/app/mining-empire-idle-tycoon/id6443466892) 
+
 
 ## Фриланс  
  - [Куб Скорости](https://yandex.ru/games/app/261646#app-id=261646&catalog-session-uid=catalog-847e53d5-36f6-5acc-9e4c-0a916cd1a07a-1699941497830-07bd&rtx-reqid=12809727291719828101&pos=%7B%22listType%22%3A%22played%22%2C%22tabCategory%22%3A%22common%22%7D&redir-data=%7B%22block%22%3A%22played%22%2C%22block_index%22%3A0%2C%22card%22%3A%22your_games%22%2C%22col%22%3A1%2C%22first_screen%22%3A1%2C%22page%22%3A%22main%22%2C%22rn%22%3A959991245%2C%22row%22%3A0%2C%22rtx_reqid%22%3A%2212809727291719828101%22%2C%22wrapper%22%3A%22played_games%22%2C%22http_ref%22%3A%22https%253A%252F%252Fyandex.ru%252Fgames%252F%22%7D)
