@@ -2,7 +2,7 @@
 
 Проекты к которым удалось приложить руку
 
-## DankoLab
+## [DankoLab](https://dankolab.com/)
  - [Merge Millionaire Android](https://play.google.com/store/apps/details?id=com.merge.millionaire.tycoon.money.rich.billionaire.magnate.business.mansion)
  - [Merge Millionaire iOS](https://apps.apple.com/us/app/merge-millionaire-rich-craft/id6502765609)
  - [Cat Miners](https://play.google.com/store/apps/details?id=com.cat.miners.empire.gold.gems.digger.tycoon&hl=en) 
